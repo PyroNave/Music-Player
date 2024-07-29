@@ -11,64 +11,64 @@ $(document).ready(function () {
 		{
 			title: "Iris",
 			artist: "Goo Goo Dolls",
-			cover: "./albumCovers/Iris.jpeg",
-			audioFile: "./music/Iris.mp3",
+			cover: "Iris.jpeg",
+			audioFile: "Iris.mp3",
 			color: "#90a4a4"
 		},
 		{
 			title: "Wicked Game",
 			artist: "Chris Issac",
-			cover: "./albumCovers/WickedGame.jpeg",
-			audioFile: "./music/WickedGame.mp3",
+			cover: "WickedGame.jpeg",
+			audioFile: "WickedGame.mp3",
 			color: "#1c1c1c"
 		},
 		{
 			title: "Goth",
 			artist: "Sidewalks and Skeletons",
-			cover: "./albumCovers/Goth.jpeg",
-			audioFile: "./music/Goth.mp3",
+			cover: "Goth.jpeg",
+			audioFile: "Goth.mp3",
 			color: "#b92c8a"
 		},
 		{
 			title: "WonderWall",
 			artist: "Oasis",
-			cover: "./albumCovers/Wonderwall.jpeg",
-			audioFile: "./music/WonderWall.mp3",
+			cover: "Wonderwall.jpeg",
+			audioFile: "WonderWall.mp3",
 			color: "#acacac"
 		},
 		{
 			title: "Use Somebody",
 			artist: "Kings of Leon",
-			cover: "./albumCovers/Use_Somebody.jpg",
-			audioFile: "./music/UseSomebody.mp3",
+			cover: "Use_Somebody.jpg",
+			audioFile: "UseSomebody.mp3",
 			color: "#8a8a8a"
 		},
 		{
 			title: "End Of Beginning",
 			artist: "Djo",
-			cover: "./albumCovers/EndOfBeginning.jpeg",
-			audioFile: "./music/EndOfBeginning.mp3",
+			cover: "EndOfBeginning.jpeg",
+			audioFile: "EndOfBeginning.mp3",
 			color: "#33408c"
 		},
 		{
 			title: "Freaks",
 			artist: "Surf Curse",
-			cover: "./albumCovers/Freaks.jpeg",
-			audioFile: "./music/Freaks.mp3",
+			cover: "Freaks.jpeg",
+			audioFile: "Freaks.mp3",
 			color: "#9391a8"
 		},
 		{
 			title: "Where Is My Mind",
 			artist: "Pixies",
-			cover: "./albumCovers/WhereIsMyMind.jpeg",
-			audioFile: "./music/WhereIsMyMind.mp3",
+			cover: "WhereIsMyMind.jpeg",
+			audioFile: "WhereIsMyMind.mp3",
 			color: "#dfc2a9"
 		},
 		{
 			title: "Tactiturn",
 			artist: "Stone Sour",
-			cover: "./albumCovers/Tactiturn.jpeg",
-			audioFile: "./music/StoneSour.mp3",
+			cover: "Tactiturn.jpeg",
+			audioFile: "StoneSour.mp3",
 			color: "#bec0bf"
 		}
 	];
